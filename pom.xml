@@ -45,7 +45,7 @@
 
 			<artifactId>antlr4</artifactId>
 			<!--	DO NOT CHANGE THE VERSION OTHERWISE THE SQL PARSER WON'T WORK-->
-			<version>4.9.2</version>
+			<version>4.13.0</version>
 		</dependency>
 
 		<dependency>
